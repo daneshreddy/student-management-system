@@ -5,7 +5,7 @@ The system provides role-based access for **administrators** and **students** an
 
 ---
 
-## 🚀 Features
+## Features
 - Add, update, delete, and view student records
 - Manage student grades and attendance
 - Role-based access:
@@ -16,7 +16,7 @@ The system provides role-based access for **administrators** and **students** an
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - **Programming Language:** Java  
 - **Database:** MySQL  
 - **Connectivity:** JDBC  
