@@ -1,4 +1,4 @@
-# 🎓 Student Management System
+#  Student Management System
 
 A Java-based application to manage student records such as grades, attendance, and performance.  
 The system provides role-based access for **administrators** and **students** and uses **JDBC with MySQL** for database management.
@@ -16,7 +16,7 @@ The system provides role-based access for **administrators** and **students** an
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Programming Language:** Java  
 - **Database:** MySQL  
 - **Connectivity:** JDBC  
